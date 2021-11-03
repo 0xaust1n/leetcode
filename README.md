@@ -13,7 +13,7 @@
 |            Title             |         Code         |    Date    |    RB    |    MB    | Times  |
 | :--------------------------: | :------------------: | :--------: | :------: | :------: | :----: |
 |       [two-sum][1web]        | [Source Code][1code] | 2021/10/29 | `75.69%` | `20.52%` | `84ms` |
-| [number-of-good-pairs][3web] | [Source Code][3code] | 2021/10/29 | `99.41%` | `30.41%` | `84ms` |
+| [number-of-good-pairs][3web] | [Source Code][3code] | 2021/11/3  | `99.41%` | `30.41%` | `84ms` |
 
 **Medium Problems**  
 |            Title             |         Code         |    Date    |    RB    |    MB    |    Times    |
