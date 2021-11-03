@@ -5,18 +5,20 @@
 
 > PS: Javascript filename stand for the approaching times of the solution.  
 > **e.g. : `1.js` stand for my first approaching.**
+> `RB` stand for `Runtime Beats`
+> `MB` stand for `Memory usage  Beats`
 ## Table Of Contents
 
 **Easy Problems**  
-|      Title      |         Code         |    Date    |   Rank   | Times  |
-| :-------------: | :------------------: | :--------: | :------: | :----: |
-| [two-sum][1web] | [Source Code][1code] | 2021/10/29 | `75.69%` | `84ms` |
-
+|            Title             |         Code         |    Date    |    RB    |    MB    | Times  |
+| :--------------------------: | :------------------: | :--------: | :------: | :------: | :----: |
+|       [two-sum][1web]        | [Source Code][1code] | 2021/10/29 | `75.69%` | `20.52%` | `84ms` |
+| [number-of-good-pairs][3web] | [Source Code][3code] | 2021/10/29 | `99.41%` | `30.41%` | `84ms` |
 
 **Medium Problems**  
-|            Title             |         Code         |    Date    |  Rank   |    Times    |
-| :--------------------------: | :------------------: | :--------: | :-----: | :---------: |
-| [Longest-substring...][2web] | [Source Code][2code] | 2021/10/30 | `77.9%` | **`108ms`** |
+|            Title             |         Code         |    Date    |    RB    |    MB    |    Times    |
+| :--------------------------: | :------------------: | :--------: | :------: | :------: | :---------: |
+| [Longest-substring...][2web] | [Source Code][2code] | 2021/10/30 | `85.84%` | `26.38%` | **`108ms`** |
 
 
 <!-- URL Below -->
@@ -27,3 +29,5 @@
 [2web]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [2code]:./src/medium/longest-substring-without-repeating-characters/1.js
 
+[3web]:https://leetcode.com/problems/number-of-good-pairs/
+[3code]:./src/easy/number-of-good-pairs/1.js
