@@ -4,9 +4,9 @@
 
 
 > PS: Javascript filename stand for the approaching times of the solution.  
-> **e.g. : `1.js` stand for my first approaching.**
-> `RB` stand for `Runtime Beats`
-> `MB` stand for `Memory usage  Beats`
+> **e.g. : `1.js` stand for my first approaching.**  
+> `RB` stand for `Runtime Beats`  
+> `MB` stand for `Memory usage Beats`  
 ## Table Of Contents
 
 **Easy Problems**  
