@@ -14,13 +14,13 @@
 | :----------------------------: | :------------------: | :--------: | :------: | :------: | :----: |
 |        [two-sum][1web]         | [Source Code][1code] | 2021/10/29 | `75.69%` | `20.52%` | `84ms` |
 |  [number-of-good-pairs][3web]  | [Source Code][3code] | 2021/11/3  | `99.41%` | `30.41%` | `84ms` |
-| [next-greater-element-i][4web] | [Source Code][4code] | 2021/11/3  | `73.19%` | `76.01%` | `84ms` |
+| [next-greater-element-i][4web] | [Source Code][4code] | 2021/11/10 | `73.19%` | `76.01%` | `84ms` |
 
 **Medium Problems**  
-|            Title             |         Code         |    Date    |    RB    |    MB    |    Times    |
-| :--------------------------: | :------------------: | :--------: | :------: | :------: | :---------: |
-| [Longest-substring...][2web] | [Source Code][2code] | 2021/10/30 | `85.84%` | `26.38%` | **`108ms`** |
-
+|              Title              |         Code         |    Date    |    RB    |    MB    |    Times    |
+| :-----------------------------: | :------------------: | :--------: | :------: | :------: | :---------: |
+|  [longest-substring...][2web]   | [Source Code][2code] | 2021/10/30 | `85.84%` | `26.38%` | **`108ms`** |
+| [next-greater-element-ii][5web] | [Source Code][5code] | 2021/11/11 | `96.73%` | `74.12%` | **`104ms`** |
 
 <!-- URL Below -->
 
@@ -35,3 +35,6 @@
 
 [4web]:https://leetcode.com/problems/next-greater-element-i/
 [4code]:./src/easy/next-greater-element-i/1.js
+
+[5web]:https://leetcode.com/problems/next-greater-element-ii/
+[5code]:./src/medium/next-greater-element-ii/1.js
