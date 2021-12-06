@@ -13,9 +13,10 @@
 |             Title              |         Code         |    Date    |    RB    |    MB    | Times  |
 | :----------------------------: | :------------------: | :--------: | :------: | :------: | :----: |
 |        [two-sum][1web]         | [Source Code][1code] | 2021/10/29 | `75.69%` | `20.52%` | `84ms` |
-|  [number-of-good-pairs][3web]  | [Source Code][3code] | 2021/11/3  | `99.41%` | `30.41%` | `84ms` |
+|  [number-of-good-pairs][3web]  | [Source Code][3code] | 2021/11/03  | `99.41%` | `30.41%` | `84ms` |
 | [next-greater-element-i][4web] | [Source Code][4code] | 2021/11/10 | `73.19%` | `76.01%` | `84ms` |
-| [minimum-cost...][6web] | [Source Code][6code] | 2021/11/10 | `95.16%` | `30.65` | `68ms` |
+|    [minimum-cost...][6web]     | [Source Code][6code] | 2021/12/06 | `95.16%` | `30.65`  | `68ms` |
+|    [emove-all-adjacent...][7web]     | [Source Code][7code] | 2021/12/07 | `83.98%` | `17.27`  | `88ms` |
 
 **Medium Problems**  
 |              Title              |         Code         |    Date    |    RB    |    MB    |    Times    |
@@ -42,3 +43,6 @@
 
 [6web]:https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/
 [6code]:./src/easy/minimum-cost-to-move-chips-to-the-same-position/1.js
+
+[7web]:https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+[7code]:./src/easy/remove-all-adjacent-duplicates-in-string/1.js
