@@ -15,6 +15,7 @@
 |        [two-sum][1web]         | [Source Code][1code] | 2021/10/29 | `75.69%` | `20.52%` | `84ms` |
 |  [number-of-good-pairs][3web]  | [Source Code][3code] | 2021/11/3  | `99.41%` | `30.41%` | `84ms` |
 | [next-greater-element-i][4web] | [Source Code][4code] | 2021/11/10 | `73.19%` | `76.01%` | `84ms` |
+| [minimum-cost...][6web] | [Source Code][6code] | 2021/11/10 | `95.16%` | `30.65` | `68ms` |
 
 **Medium Problems**  
 |              Title              |         Code         |    Date    |    RB    |    MB    |    Times    |
@@ -38,3 +39,6 @@
 
 [5web]:https://leetcode.com/problems/next-greater-element-ii/
 [5code]:./src/medium/next-greater-element-ii/1.js
+
+[6web]:https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/
+[6code]:./src/easy/minimum-cost-to-move-chips-to-the-same-position/1.js
