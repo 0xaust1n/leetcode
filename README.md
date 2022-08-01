@@ -5,26 +5,27 @@
 > All Question are sort by finished date.  
 > PS: Javascript filename stand for the approaching times of the solution.  
 > **e.g. : `1.js` stand for my first approaching.**  
-> `RB` stand for `Runtime Beats`  
-> `MB` stand for `Memory usage Beats`  
+
+ 
 ## Table Of Contents
 
 **Easy Problems**  
-|  No.  |             Title              |         Code         |    Date    |    RB    |    MB    |
-| :---: | :----------------------------: | :------------------: | :--------: | :------: | :------: |
-|   1   |        [two-sum][1web]         | [Source Code][1code] | 2021/10/29 | `75.69%` | `20.52%` |
-| 1512  |  [number-of-good-pairs][3web]  | [Source Code][3code] | 2021/11/03 | `99.41%` | `30.41%` |
-|  496  | [next-greater-element-i][4web] | [Source Code][4code] | 2021/11/10 | `73.19%` | `76.01%` |
-| 1217  |    [minimum-cost...][6web]     | [Source Code][6code] | 2021/12/06 | `95.16%` | `30.65`  |
-| 1047  | [emove-all-adjacent...][7web]  | [Source Code][7code] | 2021/12/07 | `83.98%` | `17.27`  |
-|  118  |    [pascals-triangle][9web]    | [Source Code][9code] | 2022/7/14  | `96.75`  | `82.83`  |
+|  No.  |             Title              |         Code         |    Date    |
+| :---: | :----------------------------: | :------------------: | :--------: |
+|   1   |        [two-sum][1web]         | [Source Code][1code] | 2021/10/29 |
+| 1512  |  [number-of-good-pairs][3web]  | [Source Code][3code] | 2021/11/03 |
+|  496  | [next-greater-element-i][4web] | [Source Code][4code] | 2021/11/10 |
+| 1217  |    [minimum-cost...][6web]     | [Source Code][6code] | 2021/12/06 |
+| 1047  | [emove-all-adjacent...][7web]  | [Source Code][7code] | 2021/12/07 |
+|  118  |    [pascals-triangle][9web]    | [Source Code][9code] | 2022/7/14  |
 
 **Medium Problems**  
-|  No.  |              Title              |         Code         |    Date    |    RB    |    MB    |
-| :---: | :-----------------------------: | :------------------: | :--------: | :------: | :------: |
-|   3   |  [longest-substring...][2web]   | [Source Code][2code] | 2021/10/30 | `85.84%` | `26.38%` |
-|  503  | [next-greater-element-ii][5web] | [Source Code][5code] | 2021/11/11 | `96.73%` | `74.12%` |
-|  73   |    [set-matrix-zeroes][8web]    | [Source Code][8code] | 2022/07/06 | `79.48%` | `70.07%` |
+|  No.  |              Title              |         Code          |    Date    |
+| :---: | :-----------------------------: | :-------------------: | :--------: |
+|   3   |  [longest-substring...][2web]   | [Source Code][2code]  | 2021/10/30 |
+|  503  | [next-greater-element-ii][5web] | [Source Code][5code]  | 2021/11/11 |
+|  73   |    [set-matrix-zeroes][8web]    | [Source Code][8code]  | 2022/07/06 |
+|  120  |        [triangle][10web]        | [Source Code][10code] | 2022/07/28 |
 <!-- URL Below -->
 
 [1web]: https://leetcode.com/problems/two-sum/
@@ -53,3 +54,6 @@
 
 [9web]:https://leetcode.com/problems/pascals-triangle/ 
 [9code]:./src/easy/pascals-triangle/1.js
+
+[10web]:https://leetcode.com/problems/triangle/
+[10code]:./src/medium/pascals-triangle/1.js
