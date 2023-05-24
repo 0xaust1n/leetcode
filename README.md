@@ -18,7 +18,8 @@
 | 1217  |    [minimum-cost...][6web]     | [Source Code][6code]  | 2021/12/06 |
 | 1047  | [emove-all-adjacent...][7web]  | [Source Code][7code]  | 2021/12/07 |
 |  118  |    [pascals-triangle][9web]    | [Source Code][9code]  | 2022/7/14  |
-|  217  |  [contains-duplicate][11web]   | [Source Code][11code] | 2022/5/24  |
+|  217  |  [contains-duplicate][11web]   | [Source Code][11code] | 2023/5/24  |
+|  242  |     [valid-anagram][12web]     | [Source Code][12code] | 2023/5/24  |
 
 
 **Medium Problems**  
@@ -62,3 +63,6 @@
 
 [11web]:https://leetcode.com/problems/contains-duplicate/
 [11code]:./src/easy/contains-duplicate/1.ts
+
+[12web]:https://leetcode.com/problems/valid-anagram/
+[12code]:./src/easy/contains-duplicate/1.ts
