@@ -10,14 +10,16 @@
 ## Table Of Contents
 
 **Easy Problems**  
-|  No.  |             Title              |         Code         |    Date    |
-| :---: | :----------------------------: | :------------------: | :--------: |
-|   1   |        [two-sum][1web]         | [Source Code][1code] | 2021/10/29 |
-| 1512  |  [number-of-good-pairs][3web]  | [Source Code][3code] | 2021/11/03 |
-|  496  | [next-greater-element-i][4web] | [Source Code][4code] | 2021/11/10 |
-| 1217  |    [minimum-cost...][6web]     | [Source Code][6code] | 2021/12/06 |
-| 1047  | [emove-all-adjacent...][7web]  | [Source Code][7code] | 2021/12/07 |
-|  118  |    [pascals-triangle][9web]    | [Source Code][9code] | 2022/7/14  |
+|  No.  |             Title              |         Code          |    Date    |
+| :---: | :----------------------------: | :-------------------: | :--------: |
+|   1   |        [two-sum][1web]         | [Source Code][1code]  | 2021/10/29 |
+| 1512  |  [number-of-good-pairs][3web]  | [Source Code][3code]  | 2021/11/03 |
+|  496  | [next-greater-element-i][4web] | [Source Code][4code]  | 2021/11/10 |
+| 1217  |    [minimum-cost...][6web]     | [Source Code][6code]  | 2021/12/06 |
+| 1047  | [emove-all-adjacent...][7web]  | [Source Code][7code]  | 2021/12/07 |
+|  118  |    [pascals-triangle][9web]    | [Source Code][9code]  | 2022/7/14  |
+|  217  |  [contains-duplicate][11web]   | [Source Code][11code] | 2022/5/24  |
+
 
 **Medium Problems**  
 |  No.  |              Title              |         Code          |    Date    |
@@ -57,3 +59,6 @@
 
 [10web]:https://leetcode.com/problems/triangle/
 [10code]:./src/medium/pascals-triangle/1.js
+
+[11web]:https://leetcode.com/problems/contains-duplicate/
+[11code]:./src/easy/contains-duplicate/1.ts
