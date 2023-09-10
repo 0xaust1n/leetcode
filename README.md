@@ -23,13 +23,14 @@
 
 
 **Medium Problems**  
-|  No.  |              Title              |         Code          |    Date    |
-| :---: | :-----------------------------: | :-------------------: | :--------: |
-|   3   |  [longest-substring...][2web]   | [Source Code][2code]  | 2021/10/30 |
-|  503  | [next-greater-element-ii][5web] | [Source Code][5code]  | 2021/11/11 |
-|  73   |    [set-matrix-zeroes][8web]    | [Source Code][8code]  | 2022/07/06 |
-|  120  |        [triangle][10web]        | [Source Code][10code] | 2022/07/28 |
-|  49   |     [group-anagrams][13web]     | [Source Code][13code] | 2023/05/30 |
+|  No.  |              Title               |         Code          |    Date    |
+| :---: | :------------------------------: | :-------------------: | :--------: |
+|   3   |   [longest-substring...][2web]   | [Source Code][2code]  | 2021/10/30 |
+|  503  | [next-greater-element-ii][5web]  | [Source Code][5code]  | 2021/11/11 |
+|  73   |    [set-matrix-zeroes][8web]     | [Source Code][8code]  | 2022/07/06 |
+|  120  |        [triangle][10web]         | [Source Code][10code] | 2022/07/28 |
+|  49   |     [group-anagrams][13web]      | [Source Code][13code] | 2023/05/30 |
+|  347  | [top-k-frequent-elements][14web] | [Source Code][14code] | 2023/09/10 |
 <!-- URL Below -->
 
 [1web]: https://leetcode.com/problems/two-sum/
@@ -68,6 +69,8 @@
 [12web]:https://leetcode.com/problems/valid-anagram/
 [12code]:./src/easy/contains-duplicate/1.ts
 
-
 [13web]:https://leetcode.com/problems/group-anagrams/
-[13code]:./src/medium//group-anagrams/1.ts
+[13code]:./src/medium/group-anagrams/1.ts
+
+[14web]:https://leetcode.com/problems/top-k-frequent-elements/
+[14code]:./src/medium/top-k-frequent-elements/1.js
