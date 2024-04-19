@@ -70,7 +70,7 @@
 [217code]:./src/easy/contains-duplicate/1.ts
 
 [242web]:https://leetcode.com/problems/valid-anagram/
-[242code]:./src/easy/contains-duplicate/1.ts
+[242code]:./src/easy/valid-anagram/2.ts
 
 [49web]:https://leetcode.com/problems/group-anagrams/
 [49code]:./src/medium/group-anagrams/1.ts

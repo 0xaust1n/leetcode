@@ -2,7 +2,7 @@ function isAnagram(s: string, t: string): boolean {
   const sMap = new Map();
   const tMap = new Map();
 
-  for (const str of s.split("")) {
+  for (const str of s.split('')) {
     if (!sMap.has(str)) {
       sMap.set(str, 1);
     } else {
@@ -11,7 +11,7 @@ function isAnagram(s: string, t: string): boolean {
     }
   }
 
-  for (const str of t.split("")) {
+  for (const str of t.split('')) {
     if (!tMap.has(str)) {
       tMap.set(str, 1);
     } else {
