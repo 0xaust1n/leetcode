@@ -2,11 +2,16 @@
 
 > Here we go again with [Tingting](https://github.com/austinbabe/hackerRank/blob/master/README.md)
 
-> All Question are sort by finished date.  
-> PS: Javascript filename stand for the approaching times of the solution.  
-> **e.g. : `1.js` stand for my first approaching.**  
 
- 
+> All Question are sort by finished date.  
+> PS: filename stand for the approaching times of the solution.  
+> **e.g. : `1.<file-type>` stand for my first approaching.**  
+
+Language:  
+- Javascript  
+- Typescript  
+- Go-lang  
+
 ## Table Of Contents
 
 **Easy Problems**  
@@ -17,10 +22,10 @@
 |  496  |              [next-greater-element-i][496web]              | [Source Code][496code]  | 2021/11/10 |
 | 1217  | [minimum-cost-to-move-chips-to-the-same-position][1217web] | [Source Code][1217code] | 2021/12/06 |
 | 1047  |    [remove-all-adjacent-duplicates-in-string][1047web]     | [Source Code][1047code] | 2021/12/07 |
-|  118  |                 [pascals-triangle][118web]                 | [Source Code][118code]  | 2022/7/14  |
-|  217  |                [contains-duplicate][217web]                | [Source Code][217code]  | 2023/5/24  |
-|  242  |                  [valid-anagram][242web]                   | [Source Code][242code]  | 2023/5/24  |
-|  125  |                 [valid-palindrome][125web]                 | [Source Code][125code]  | 2024/5/16  |
+|  118  |                 [pascals-triangle][118web]                 | [Source Code][118code]  | 2022/07/14 |
+|  217  |                [contains-duplicate][217web]                | [Source Code][217code]  | 2023/05/24 |
+|  242  |                  [valid-anagram][242web]                   | [Source Code][242code]  | 2023/05/24 |
+|  125  |                 [valid-palindrome][125web]                 | [Source Code][125code]  | 2024/05/15 |
 
 **Medium Problems**  
 |  No.  |                         Title                          |          Code          |    Date    |
@@ -34,6 +39,7 @@
 |  238  |         [product-of-array-except-self][238web]         | [Source Code][238code] | 2023/09/11 |
 |  36   |                 [valid-sudoku][36web]                  | [Source Code][36code]  | 2023/09/13 |
 |  128  |         [longest-consecutive-sequence][128web]         | [Source Code][128code] | 2023/09/13 |
+|  167  |       [two-sum-ii-input-array-is-sorted][167web]       | [Source Code][167code] | 2024/05/16 |
 <!-- URL Below -->
 
 [1web]: https://leetcode.com/problems/two-sum/
@@ -89,3 +95,6 @@
 
 [125web]:https://leetcode.com/problems/valid-palindrome/description/
 [125code]:./src/easy/valid-palindrome/2.go
+
+[167web]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+[167code]: ./src/medium/two-sum-ii-input-array-is-sorted/1.go
