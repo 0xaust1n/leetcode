@@ -1,14 +1,7 @@
+// approaching 1
 package main
 
-import (
-	"fmt"
-	"strings"
-)
-
-func main() {
-	str := "A man, a plan, a canal: Panama"
-	fmt.Println("result:", isPalindrome(str))
-}
+import "strings"
 
 /*
  * @lc app=leetcode id=125 lang=golang
@@ -17,7 +10,7 @@ func main() {
  */
 
 // @lc code=start
-func isPalindrome(s string) bool {
+func isPalindromeA1(s string) bool {
 	strArry := strings.SplitAfter(s, "")
 
 	if len(strArry) == 0 {

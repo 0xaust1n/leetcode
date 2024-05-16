@@ -88,4 +88,4 @@
 [128code]:./src/medium/longest-consecutive-sequence/2.js
 
 [125web]:https://leetcode.com/problems/valid-palindrome/description/
-[125code]:./src/easy/valid-palindrome/1.go
+[125code]:./src/easy/valid-palindrome/2.go
