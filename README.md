@@ -20,7 +20,7 @@
 |  118  |                 [pascals-triangle][118web]                 | [Source Code][118code]  | 2022/7/14  |
 |  217  |                [contains-duplicate][217web]                | [Source Code][217code]  | 2023/5/24  |
 |  242  |                  [valid-anagram][242web]                   | [Source Code][242code]  | 2023/5/24  |
-
+|  125  |                 [valid-palindrome][125web]                 | [Source Code][125code]  | 2024/5/16  |
 
 **Medium Problems**  
 |  No.  |                         Title                          |          Code          |    Date    |
@@ -86,3 +86,6 @@
 
 [128web]:https://leetcode.com/problems/longest-consecutive-sequence/
 [128code]:./src/medium/longest-consecutive-sequence/2.js
+
+[125web]:https://leetcode.com/problems/valid-palindrome/description/
+[125code]:./src/easy/valid-palindrome/1.go
