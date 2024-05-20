@@ -40,6 +40,7 @@ Language:
 |  36   |                 [valid-sudoku][36web]                  | [Source Code][36code]  | 2023/09/13 |
 |  128  |         [longest-consecutive-sequence][128web]         | [Source Code][128code] | 2023/09/13 |
 |  167  |       [two-sum-ii-input-array-is-sorted][167web]       | [Source Code][167code] | 2024/05/16 |
+|  15   |                     [3sum][15web]                      |  [Source Code][15web]  | 2024/05/20 |
 <!-- URL Below -->
 
 [1web]: https://leetcode.com/problems/two-sum/
@@ -98,3 +99,6 @@ Language:
 
 [167web]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [167code]: ./src/medium/two-sum-ii-input-array-is-sorted/1.go
+
+[15web]: https://leetcode.com/problems/3sum/
+[15code]: ./src/medium/three-sum/1.go
