@@ -26,6 +26,8 @@ Language:
 |  217  |                [contains-duplicate][217web]                | [Source Code][217code]  | 2023/05/24 |
 |  242  |                  [valid-anagram][242web]                   | [Source Code][242code]  | 2023/05/24 |
 |  125  |                 [valid-palindrome][125web]                 | [Source Code][125code]  | 2024/05/15 |
+|  26   |                 [remove-duplicates][26web]                 |  [Source Code][26code]  | 2025/01/18 |
+
 
 **Medium Problems**  
 |  No.  |                         Title                          |          Code          |    Date    |
@@ -105,3 +107,6 @@ Language:
 
 [11web]: https://leetcode.com/problems/container-with-most-water/
 [11code]: ./src/medium/container-with-most-water/1.go
+
+[26web]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+[26code]: ./src/easy/remove-duplicates-from-sorted-array/1.ts
