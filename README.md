@@ -27,7 +27,7 @@ Language:
 |  242  |                  [valid-anagram][242web]                   | [Source Code][242code]  | 2023/05/24 |
 |  125  |                 [valid-palindrome][125web]                 | [Source Code][125code]  | 2024/05/15 |
 |  26   |                 [remove-duplicates][26web]                 |  [Source Code][26code]  | 2025/01/18 |
-
+|   9   |                 [palindrome-number][9web]                  |  [Source Code][9code]   | 2025/01/20 |
 
 **Medium Problems**  
 |  No.  |                         Title                          |          Code          |    Date    |
@@ -110,3 +110,6 @@ Language:
 
 [26web]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [26code]: ./src/easy/remove-duplicates-from-sorted-array/1.ts
+
+[9web]: https://leetcode.com/problems/palindrome-number/
+[9code]: ./src/easy/palindrome-number/1.ts
