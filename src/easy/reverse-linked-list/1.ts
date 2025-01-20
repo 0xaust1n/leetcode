@@ -1,3 +1,4 @@
+import { ListNode } from './list-node';
 /*
  * @lc app=leetcode id=206 lang=typescript
  *
@@ -7,15 +8,6 @@
 // @lc code=start
 
 // Definition for singly-linked list.
-class ListNode {
-  val: number;
-  next: ListNode | null;
-  constructor(val?: number, next?: ListNode | null) {
-    this.val = val === undefined ? 0 : val;
-    this.next = next === undefined ? null : next;
-  }
-}
-
 function reverseList(head: ListNode | null): ListNode | null {
   const nums: number[] = [];
   while (head) {
@@ -28,7 +20,6 @@ function reverseList(head: ListNode | null): ListNode | null {
     const tempNode = new ListNode(nums[i], result);
     result = tempNode;
   }
-
   return result;
 }
 
