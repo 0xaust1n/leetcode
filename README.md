@@ -44,10 +44,28 @@ Language:
 |  128  |         [longest-consecutive-sequence][128web]         | [Source Code][128code] | 2023/09/13 |
 |  15   |                     [3sum][15web]                      | [Source Code][15code]  | 2024/05/20 |
 |  11   |           [container-with-most-water][11web]           | [Source code][11code]  | 2024/05/22 |
+|   2   |                [add-two-numbers][2web]                 |  [Source Code][2code]  | 2024/01/22 |
+
+
+**Explained Book**
+> If I look back at the problems I solved a couple of months ago,  
+> I had a hard time understanding my solutions.
+> So I decided to write a book to explain the problems I solved.   
+
+
+|  No.  |          Title           |    Date    |
+| :---: | :----------------------: | :--------: |
+|   2   | [Add Two Numbers][2book] | 2024/01/23 |
+
+
 <!-- URL Below -->
 
 [1web]: https://leetcode.com/problems/two-sum/
 [1code]:./src/easy/two-sum/1.js
+
+[2web]: https://leetcode.com/problems/add-two-numbers/
+[2code]:./src/medium/add-two-numbers/1.ts
+[2book]:./explain-books/2.md
 
 [3web]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [3code]:./src/medium/longest-substring-without-repeating-characters/1.js
