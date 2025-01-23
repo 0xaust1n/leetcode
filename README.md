@@ -29,6 +29,8 @@ Language:
 |  26   |                 [remove-duplicates][26web]                 |  [Source Code][26code]  | 2025/01/18 |
 |   9   |                 [palindrome-number][9web]                  |  [Source Code][9code]   | 2025/01/19 |
 |  206  |               [reverse-linked-list][206web]                | [Source Code][206code]  | 2025/01/20 |
+|  21   |              [merge-two-sorted-lists][21web]               |  [Source Code][21code]  | 2025/01/21 |
+
 
 **Medium Problems**  
 |  No.  |                         Title                          |          Code          |    Date    |
@@ -44,7 +46,9 @@ Language:
 |  128  |         [longest-consecutive-sequence][128web]         | [Source Code][128code] | 2023/09/13 |
 |  15   |                     [3sum][15web]                      | [Source Code][15code]  | 2024/05/20 |
 |  11   |           [container-with-most-water][11web]           | [Source code][11code]  | 2024/05/22 |
-|   2   |                [add-two-numbers][2web]                 |  [Source Code][2code]  | 2024/01/22 |
+|   2   |                [add-two-numbers][2web]                 |  [Source Code][2code]  | 2025/01/22 |
+|   6   |               [Zigzag Conversion][6web]                |  [Source Code][6code]  | 2025/01/23 |
+
 
 
 **Explained Book**
@@ -135,3 +139,9 @@ Language:
 
 [206web]: https://leetcode.com/problems/reverse-linked-list/
 [206code]: ./src/easy/reverse-linked-list/1.ts
+
+[21web]: https://leetcode.com/problems/merge-two-sorted-lists/
+[21code]: ./src/easy/merge-two-sorted-lists/1.go
+
+[6web]: https://leetcode.com/problems/zigzag-conversion/
+[6code]: ./src/medium/zig-zag-conversion/1.ts
