@@ -6,30 +6,29 @@
 
 // @lc code=start
 function convert(s: string, numRows: number): string {
-  let result: string[][] = [];
+  let result = Array(numRows).fill('');
   let skipCount = 0;
-  let pionter = 0;
-  s.split('').forEach((string) => {
-    let arrayIndex = pionter > numRows - 1 ? pionter % numRows : pionter;
-    result[arrayIndex] = result[arrayIndex] || [];
-    result[arrayIndex].push(string);
+  let index = 0;
+  for (const string of s) {
+    let row = index > numRows - 1 ? index % numRows : index;
+    result[row] += string;
 
-    if (pionter > 0 && arrayIndex == numRows - 1) {
+    if (index > 0 && row == numRows - 1) {
       skipCount++;
-      pionter += numRows - 1;
-      return;
+      index += numRows - 1;
+      continue;
     }
 
     if (skipCount == numRows - 1 || skipCount == 0) {
       skipCount = 0;
-      pionter += 1;
+      index += 1;
     }
 
     if (skipCount > 0) {
       skipCount++;
-      pionter += numRows - 1;
-      return;
+      index += numRows - 1;
+      continue;
     }
-  });
-  return result.flat().join('');
+  }
+  return result.join('');
 }
