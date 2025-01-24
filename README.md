@@ -48,6 +48,7 @@ Language:
 |  11   |           [container-with-most-water][11web]           | [Source code][11code]  | 2024/05/22 |
 |   2   |                [add-two-numbers][2web]                 |  [Source Code][2code]  | 2025/01/22 |
 |   6   |               [Zigzag Conversion][6web]                |  [Source Code][6code]  | 2025/01/23 |
+|   7   |                [Reverse Integer][7web]                 |  [Source Code][7code]  | 2025/01/24 |
 
 
 
@@ -145,3 +146,6 @@ Language:
 
 [6web]: https://leetcode.com/problems/zigzag-conversion/
 [6code]: ./src/medium/zig-zag-conversion/1.ts
+
+[7web]: https://leetcode.com/problems/reverse-integer/
+[7code]: ./src/medium/reverse-intege/1.ts
