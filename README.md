@@ -15,40 +15,47 @@ Language:
 ## Table Of Contents
 
 **Easy Problems**  
-|  No.  |                           Title                            |          Code           |    Date    |
-| :---: | :--------------------------------------------------------: | :---------------------: | :--------: |
-|   1   |                      [two-sum][1web]                       |  [Source Code][1code]   | 2021/10/29 |
-| 1512  |              [number-of-good-pairs][1512web]               | [Source Code][1512code] | 2021/11/03 |
-|  496  |              [next-greater-element-i][496web]              | [Source Code][496code]  | 2021/11/10 |
-| 1217  | [minimum-cost-to-move-chips-to-the-same-position][1217web] | [Source Code][1217code] | 2021/12/06 |
-| 1047  |    [remove-all-adjacent-duplicates-in-string][1047web]     | [Source Code][1047code] | 2021/12/07 |
-|  118  |                 [pascals-triangle][118web]                 | [Source Code][118code]  | 2022/07/14 |
-|  217  |                [contains-duplicate][217web]                | [Source Code][217code]  | 2023/05/24 |
-|  242  |                  [valid-anagram][242web]                   | [Source Code][242code]  | 2023/05/24 |
-|  125  |                 [valid-palindrome][125web]                 | [Source Code][125code]  | 2024/05/15 |
-|  26   |                 [remove-duplicates][26web]                 |  [Source Code][26code]  | 2025/01/18 |
-|   9   |                 [palindrome-number][9web]                  |  [Source Code][9code]   | 2025/01/19 |
-|  206  |               [reverse-linked-list][206web]                | [Source Code][206code]  | 2025/01/20 |
-|  21   |              [merge-two-sorted-lists][21web]               |  [Source Code][21code]  | 2025/01/21 |
+|  No.  |                           Title                            |          Code           |    Date    |      Remark       |
+| :---: | :--------------------------------------------------------: | :---------------------: | :--------: | :---------------: |
+|   1   |                      [two-sum][1web]                       |  [Source Code][1code]   | 2021/10/29 |                   |
+| 1512  |              [number-of-good-pairs][1512web]               | [Source Code][1512code] | 2021/11/03 |                   |
+|  496  |              [next-greater-element-i][496web]              | [Source Code][496code]  | 2021/11/10 |                   |
+| 1217  | [minimum-cost-to-move-chips-to-the-same-position][1217web] | [Source Code][1217code] | 2021/12/06 |                   |
+| 1047  |    [remove-all-adjacent-duplicates-in-string][1047web]     | [Source Code][1047code] | 2021/12/07 |                   |
+|  118  |                 [pascals-triangle][118web]                 | [Source Code][118code]  | 2022/07/14 |                   |
+|  217  |                [contains-duplicate][217web]                | [Source Code][217code]  | 2023/05/24 |                   |
+|  242  |                  [valid-anagram][242web]                   | [Source Code][242code]  | 2023/05/24 |                   |
+|  125  |                 [valid-palindrome][125web]                 | [Source Code][125code]  | 2024/05/15 |                   |
+|  26   |                 [remove-duplicates][26web]                 |  [Source Code][26code]  | 2025/01/18 |                   |
+|   9   |                 [palindrome-number][9web]                  |  [Source Code][9code]   | 2025/01/19 |                   |
+|  206  |               [reverse-linked-list][206web]                | [Source Code][206code]  | 2025/01/20 |                   |
+|  21   |              [merge-two-sorted-lists][21web]               |  [Source Code][21code]  | 2025/01/21 |                   |
+|  27   |                  [remove-element][27web]                   |  [Source Code][27code]  | 2025/01/31 |                   |
+|  13   |                 [roman-to-integer][13web]                  |  [Source Code][13code]  | 2025/02/02 |                   |
+| 1768  |            [merge-strings-alternately][1768web]            | [Source Code][1768code] | 2025/02/03 |                   |
+| 1071  |       [greatest-common-divisor-of-strings][1071web]        | [Source Code][1071code] | 2025/02/04 | ambiguous problem |
+
 
 
 **Medium Problems**  
-|  No.  |                         Title                          |          Code          |    Date    |
-| :---: | :----------------------------------------------------: | :--------------------: | :--------: |
-|   3   | [longest-substring-without-repeating-characters][3web] |  [Source Code][3code]  | 2021/10/30 |
-|  503  |           [next-greater-element-ii][503web]            | [Source Code][503code] | 2021/11/11 |
-|  73   |               [set-matrix-zeroes][73web]               | [Source Code][73code]  | 2022/07/06 |
-|  120  |                   [triangle][120web]                   | [Source Code][120code] | 2022/07/28 |
-|  49   |                [group-anagrams][49web]                 | [Source Code][49code]  | 2023/05/30 |
-|  347  |           [top-k-frequent-elements][347web]            | [Source Code][347code] | 2023/09/10 |
-|  238  |         [product-of-array-except-self][238web]         | [Source Code][238code] | 2023/09/11 |
-|  36   |                 [valid-sudoku][36web]                  | [Source Code][36code]  | 2023/09/13 |
-|  128  |         [longest-consecutive-sequence][128web]         | [Source Code][128code] | 2023/09/13 |
-|  15   |                     [3sum][15web]                      | [Source Code][15code]  | 2024/05/20 |
-|  11   |           [container-with-most-water][11web]           | [Source code][11code]  | 2024/05/22 |
-|   2   |                [add-two-numbers][2web]                 |  [Source Code][2code]  | 2025/01/22 |
-|   6   |               [Zigzag Conversion][6web]                |  [Source Code][6code]  | 2025/01/23 |
-|   7   |                [Reverse Integer][7web]                 |  [Source Code][7code]  | 2025/01/24 |
+|  No.  |                         Title                          |          Code          |    Date    |      Remark       |
+| :---: | :----------------------------------------------------: | :--------------------: | :--------: | :---------------: |
+|   2   |                [add-two-numbers][2web]                 |  [Source Code][2code]  | 2021/10/30 |                   |
+|   3   | [longest-substring-without-repeating-characters][3web] |  [Source Code][3code]  | 2021/10/30 |                   |
+|  503  |           [next-greater-element-ii][503web]            | [Source Code][503code] | 2021/11/11 |                   |
+|  73   |               [set-matrix-zeroes][73web]               | [Source Code][73code]  | 2022/07/06 |                   |
+|  120  |                   [triangle][120web]                   | [Source Code][120code] | 2022/07/28 |                   |
+|  49   |                [group-anagrams][49web]                 | [Source Code][49code]  | 2023/05/30 |                   |
+|  347  |           [top-k-frequent-elements][347web]            | [Source Code][347code] | 2023/09/10 |                   |
+|  238  |         [product-of-array-except-self][238web]         | [Source Code][238code] | 2023/09/11 |                   |
+|  36   |                 [valid-sudoku][36web]                  | [Source Code][36code]  | 2023/09/13 |                   |
+|  128  |         [longest-consecutive-sequence][128web]         | [Source Code][128code] | 2023/09/13 |                   |
+|  15   |                     [3sum][15web]                      | [Source Code][15code]  | 2024/05/20 |                   |
+|  11   |           [container-with-most-water][11web]           | [Source code][11code]  | 2024/05/22 |                   |
+|   2   |                [add-two-numbers][2web]                 |  [Source Code][2code]  | 2025/01/22 |  explain book[v]  |
+|   6   |               [Zigzag Conversion][6web]                |  [Source Code][6code]  | 2025/01/23 |                   |
+|   7   |                [Reverse Integer][7web]                 |  [Source Code][7code]  | 2025/01/24 |                   |
+|   8   |            [String to Integer (atoi)][8web]            |  [Source Code][8code]  | 2025/01/30 | ambiguous problem |
 
 
 
@@ -149,3 +156,18 @@ Language:
 
 [7web]: https://leetcode.com/problems/reverse-integer/
 [7code]: ./src/medium/reverse-intege/1.ts
+
+[8web]: https://leetcode.com/problems/string-to-integer-atoi/
+[8code]: ./src/medium/string-to-integer-atoi/1.ts
+
+[27web]: https://leetcode.com/problems/remove-element/
+[27code]: ./src/easy/remove-element/1.ts
+
+[13web]: https://leetcode.com/problems/roman-to-integer/
+[13code]: ./src/easy/roman-to-integer/1.ts
+
+[1768web]: https://leetcode.com/problems/merge-strings-alternately/
+[1768code]: ./src/easy/merge-strings-alternately/1.ts
+
+[1071web]: https://leetcode.com/problems/greatest-common-divisor-of-strings/
+[1071code]: ./src/easy/greatest-common-divisor-of-strings/1.ts
