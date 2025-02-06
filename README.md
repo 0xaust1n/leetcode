@@ -13,7 +13,7 @@ Language:
 - Go-lang  
 
 ## Table Of Contents
-
+Count: **18**
 **Easy Problems**  
 |  No.  |                           Title                            |          Code           |    Date    |      Remark       |
 | :---: | :--------------------------------------------------------: | :---------------------: | :--------: | :---------------: |
@@ -39,6 +39,7 @@ Language:
 
 
 **Medium Problems**  
+Count: 16
 |  No.  |                         Title                          |          Code          |    Date    |      Remark       |
 | :---: | :----------------------------------------------------: | :--------------------: | :--------: | :---------------: |
 |   3   | [longest-substring-without-repeating-characters][3web] |  [Source Code][3code]  | 2021/10/30 |                   |
@@ -50,6 +51,7 @@ Language:
 |  238  |         [product-of-array-except-self][238web]         | [Source Code][238code] | 2023/09/11 |                   |
 |  36   |                 [valid-sudoku][36web]                  | [Source Code][36code]  | 2023/09/13 |                   |
 |  128  |         [longest-consecutive-sequence][128web]         | [Source Code][128code] | 2023/09/13 |                   |
+|  167  |       [two-sum-ii-input-array-is-sorted][167web]       | [Source Code][167code] | 2024/05/19 |                   |
 |  15   |                     [3sum][15web]                      | [Source Code][15code]  | 2024/05/20 |                   |
 |  11   |           [container-with-most-water][11web]           | [Source code][11code]  | 2024/05/22 |                   |
 |   2   |                [add-two-numbers][2web]                 |  [Source Code][2code]  | 2025/01/22 |  explain book[v]  |
@@ -175,3 +177,5 @@ Language:
 [1431web]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 [1431code]: ./src/easy/kids-with-the-greatest-number-of-candies/1.ts
 
+[167web]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+[167code]: ./src/medium/two-sum-ii-input-array-is-sorted/1.go
