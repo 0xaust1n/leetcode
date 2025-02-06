@@ -37,5 +37,6 @@ function reverseWords(s: string): string {
 }
 // @lc code=end
 
-/// space O(n)
-/// time O(n)
+// logical stack
+// space complexity: O(n)
+// time complexity: O(n)

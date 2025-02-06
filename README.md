@@ -41,25 +41,25 @@ Count: **18**
 
 **Medium Problems**  
 Count: 16
-|  No.  |                         Title                          |          Code          |    Date    |      Remark       |
-| :---: | :----------------------------------------------------: | :--------------------: | :--------: | :---------------: |
-|   3   | [longest-substring-without-repeating-characters][3web] |  [Source Code][3code]  | 2021/10/30 |                   |
-|  503  |           [next-greater-element-ii][503web]            | [Source Code][503code] | 2021/11/11 |                   |
-|  73   |               [set-matrix-zeroes][73web]               | [Source Code][73code]  | 2022/07/06 |                   |
-|  120  |                   [triangle][120web]                   | [Source Code][120code] | 2022/07/28 |                   |
-|  49   |                [group-anagrams][49web]                 | [Source Code][49code]  | 2023/05/30 |                   |
-|  347  |           [top-k-frequent-elements][347web]            | [Source Code][347code] | 2023/09/10 |                   |
-|  238  |         [product-of-array-except-self][238web]         | [Source Code][238code] | 2023/09/11 |                   |
-|  36   |                 [valid-sudoku][36web]                  | [Source Code][36code]  | 2023/09/13 |                   |
-|  128  |         [longest-consecutive-sequence][128web]         | [Source Code][128code] | 2023/09/13 |                   |
-|  167  |       [two-sum-ii-input-array-is-sorted][167web]       | [Source Code][167code] | 2024/05/19 |                   |
-|  15   |                     [3sum][15web]                      | [Source Code][15code]  | 2024/05/20 |                   |
-|  11   |           [container-with-most-water][11web]           | [Source code][11code]  | 2024/05/22 |                   |
-|   2   |                [add-two-numbers][2web]                 |  [Source Code][2code]  | 2025/01/22 |  explain book[v]  |
-|   6   |               [Zigzag Conversion][6web]                |  [Source Code][6code]  | 2025/01/23 |                   |
-|   7   |                [Reverse Integer][7web]                 |  [Source Code][7code]  | 2025/01/24 |                   |
-|   8   |            [String to Integer (atoi)][8web]            |  [Source Code][8code]  | 2025/01/30 | ambiguous problem |
-|  151  |          [Reverse Words in a String][151web]           | [Source Code][151code] | 2025/02/07 |                   |
+|  No.  |                         Title                          |          Code          |    Date    |       Remark        |
+| :---: | :----------------------------------------------------: | :--------------------: | :--------: | :-----------------: |
+|   3   | [longest-substring-without-repeating-characters][3web] |  [Source Code][3code]  | 2021/10/30 |                     |
+|  503  |           [next-greater-element-ii][503web]            | [Source Code][503code] | 2021/11/11 |                     |
+|  73   |               [set-matrix-zeroes][73web]               | [Source Code][73code]  | 2022/07/06 |                     |
+|  120  |                   [triangle][120web]                   | [Source Code][120code] | 2022/07/28 |                     |
+|  49   |                [group-anagrams][49web]                 | [Source Code][49code]  | 2023/05/30 |                     |
+|  347  |           [top-k-frequent-elements][347web]            | [Source Code][347code] | 2023/09/10 |                     |
+|  238  |         [product-of-array-except-self][238web]         | [Source Code][238code] | 2023/09/11 |                     |
+|  36   |                 [valid-sudoku][36web]                  | [Source Code][36code]  | 2023/09/13 |                     |
+|  128  |         [longest-consecutive-sequence][128web]         | [Source Code][128code] | 2023/09/13 |                     |
+|  167  |       [two-sum-ii-input-array-is-sorted][167web]       | [Source Code][167code] | 2024/05/19 |                     |
+|  15   |                     [3sum][15web]                      | [Source Code][15code]  | 2024/05/20 |                     |
+|  11   |           [container-with-most-water][11web]           | [Source code][11code]  | 2024/05/22 |                     |
+|   2   |                [add-two-numbers][2web]                 |  [Source Code][2code]  | 2025/01/22 |   explain book[v]   |
+|   6   |               [Zigzag Conversion][6web]                |  [Source Code][6code]  | 2025/01/23 |                     |
+|   7   |                [Reverse Integer][7web]                 |  [Source Code][7code]  | 2025/01/24 |                     |
+|   8   |            [String to Integer (atoi)][8web]            |  [Source Code][8code]  | 2025/01/30 |  ambiguous problem  |
+|  151  |          [Reverse Words in a String][151web]           | [Source Code][151code] | 2025/02/07 | fake medium problem |
 
 
 **Explained Book**
