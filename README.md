@@ -30,6 +30,7 @@ Count: **18**
 |   9   |                 [palindrome-number][9web]                  |  [Source Code][9code]   | 2025/01/19 |                   |
 |  206  |               [reverse-linked-list][206web]                | [Source Code][206code]  | 2025/01/20 |                   |
 |  21   |              [merge-two-sorted-lists][21web]               |  [Source Code][21code]  | 2025/01/21 |                   |
+|  141  |                [linked-list-cycle][141web]                 | [Source Code][141code]  | 2025/01/23 |                   |
 |  27   |                  [remove-element][27web]                   |  [Source Code][27code]  | 2025/01/31 |                   |
 |  13   |                 [roman-to-integer][13web]                  |  [Source Code][13code]  | 2025/02/02 |                   |
 | 1768  |            [merge-strings-alternately][1768web]            | [Source Code][1768code] | 2025/02/03 |                   |
@@ -179,3 +180,6 @@ Count: 16
 
 [167web]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [167code]: ./src/medium/two-sum-ii-input-array-is-sorted/1.go
+
+[141web]: https://leetcode.com/problems/linked-list-cycle/
+[141code]: ./src/easy/linked-list-cycle/1.ts
