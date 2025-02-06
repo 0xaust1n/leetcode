@@ -4,6 +4,8 @@
  * [141] Linked List Cycle
  */
 
+import { ListNode } from '../../util/list-node';
+
 // @lc code=start
 /**
  * Definition for singly-linked list.

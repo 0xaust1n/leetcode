@@ -1,4 +1,4 @@
-import { ListNode } from './list-node';
+import { ListNode } from '../../util/list-node';
 /*
  * @lc app=leetcode id=206 lang=typescript
  *

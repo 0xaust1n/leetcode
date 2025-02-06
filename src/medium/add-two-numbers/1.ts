@@ -10,7 +10,7 @@
  * }
  */
 
-import { ListNode } from '../../easy/reverse-linked-list/list-node';
+import { ListNode } from '../../util/list-node';
 
 function addTwoNumbers(
   l1: ListNode | null,
