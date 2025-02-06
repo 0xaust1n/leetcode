@@ -34,6 +34,7 @@ Language:
 |  13   |                 [roman-to-integer][13web]                  |  [Source Code][13code]  | 2025/02/02 |                   |
 | 1768  |            [merge-strings-alternately][1768web]            | [Source Code][1768code] | 2025/02/03 |                   |
 | 1071  |       [greatest-common-divisor-of-strings][1071web]        | [Source Code][1071code] | 2025/02/04 | ambiguous problem |
+| 1431  |    [kids-with-the-greatest-number-of-candies][1431web]     | [Source Code][1431code] | 2025/02/06 |                   |
 
 
 
@@ -171,3 +172,7 @@ Language:
 
 [1071web]: https://leetcode.com/problems/greatest-common-divisor-of-strings/
 [1071code]: ./src/easy/greatest-common-divisor-of-strings/1.ts
+
+[1431web]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+[1431code]: ./src/easy/kids-with-the-greatest-number-of-candies/1.ts
+
