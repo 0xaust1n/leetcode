@@ -41,7 +41,6 @@ Language:
 **Medium Problems**  
 |  No.  |                         Title                          |          Code          |    Date    |      Remark       |
 | :---: | :----------------------------------------------------: | :--------------------: | :--------: | :---------------: |
-|   2   |                [add-two-numbers][2web]                 |  [Source Code][2code]  | 2021/10/30 |                   |
 |   3   | [longest-substring-without-repeating-characters][3web] |  [Source Code][3code]  | 2021/10/30 |                   |
 |  503  |           [next-greater-element-ii][503web]            | [Source Code][503code] | 2021/11/11 |                   |
 |  73   |               [set-matrix-zeroes][73web]               | [Source Code][73code]  | 2022/07/06 |                   |
