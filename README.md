@@ -158,7 +158,7 @@ Count: 16
 [6code]: ./src/medium/zig-zag-conversion/1.ts
 
 [7web]: https://leetcode.com/problems/reverse-integer/
-[7code]: ./src/medium/reverse-intege/1.ts
+[7code]: ./src/medium/reverse-integer/1.ts
 
 [8web]: https://leetcode.com/problems/string-to-integer-atoi/
 [8code]: ./src/medium/string-to-integer-atoi/1.ts
