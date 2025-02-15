@@ -60,7 +60,7 @@ Count: 16
 |   7   |                [Reverse Integer][7web]                 |  [Source Code][7code]  | 2025/01/24 |                     |
 |   8   |            [String to Integer (atoi)][8web]            |  [Source Code][8code]  | 2025/01/30 |  ambiguous problem  |
 |  151  |          [Reverse Words in a String][151web]           | [Source Code][151code] | 2025/02/07 | fake medium problem |
-
+|  80   |    [Remove Duplicates from Sorted Array II][80web]     | [Source Code][80code]  | 2025/02/08 |        peak         |
 
 **Explained Book**
 > If I look back at the problems I solved a couple of months ago,  
@@ -186,3 +186,6 @@ Count: 16
 
 [151web]: https://leetcode.com/problems/reverse-words-in-a-string/
 [151code]: ./src/medium/reverse-words-in-a-string/1.ts
+
+[80web]: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+[80code]: ./src/medium/remove-duplicates-from-sorted-array-ii/1.ts
