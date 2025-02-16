@@ -8,7 +8,7 @@
 ## Table Of Contents
 
 **Easy Problems**  
-Count: **20**
+Count: **21**
 
 |  No.  |                           Title                            |       Code       |        Remark        |
 | :---: | :--------------------------------------------------------: | :--------------: | :------------------: |
@@ -31,6 +31,7 @@ Count: **20**
 | 1768  |            [merge-strings-alternately][1768web]            | [code][1768code] |                      |
 | 1071  |       [greatest-common-divisor-of-strings][1071web]        | [code][1071code] |  ambiguous problem   |
 | 1431  |    [kids-with-the-greatest-number-of-candies][1431web]     | [code][1431code] |                      |
+|  290  |                   [word-pattern][290web]                   | [code][290code]  |                      |
 
 **Medium Problems**  
 Count: **19**
@@ -148,3 +149,5 @@ Count: **19**
 [80code]: ./src/medium/remove-duplicates-from-sorted-array-ii/1.ts
 [451web]: https://leetcode.com/problems/sort-characters-by-frequency/
 [451code]: ./src/medium/add-two-numbers/1.ts
+[290web]: https://leetcode.com/problems/word-pattern/
+[290code]: ./src/easy/word-pattern/1.ts
