@@ -15,53 +15,53 @@ Language:
 ## Table Of Contents
 Count: **18**
 **Easy Problems**  
-|  No.  |                           Title                            |          Code           |    Date    |      Remark       |
-| :---: | :--------------------------------------------------------: | :---------------------: | :--------: | :---------------: |
-|   1   |                      [two-sum][1web]                       |  [Source Code][1code]   | 2021/10/29 |                   |
-| 1512  |              [number-of-good-pairs][1512web]               | [Source Code][1512code] | 2021/11/03 |                   |
-|  496  |              [next-greater-element-i][496web]              | [Source Code][496code]  | 2021/11/10 |                   |
-| 1217  | [minimum-cost-to-move-chips-to-the-same-position][1217web] | [Source Code][1217code] | 2021/12/06 |                   |
-| 1047  |    [remove-all-adjacent-duplicates-in-string][1047web]     | [Source Code][1047code] | 2021/12/07 |                   |
-|  118  |                 [pascals-triangle][118web]                 | [Source Code][118code]  | 2022/07/14 |                   |
-|  217  |                [contains-duplicate][217web]                | [Source Code][217code]  | 2023/05/24 |                   |
-|  242  |                  [valid-anagram][242web]                   | [Source Code][242code]  | 2023/05/24 |                   |
-|  125  |                 [valid-palindrome][125web]                 | [Source Code][125code]  | 2024/05/15 |                   |
-|  26   |                 [remove-duplicates][26web]                 |  [Source Code][26code]  | 2025/01/18 |                   |
-|   9   |                 [palindrome-number][9web]                  |  [Source Code][9code]   | 2025/01/19 |                   |
-|  206  |               [reverse-linked-list][206web]                | [Source Code][206code]  | 2025/01/20 |                   |
-|  21   |              [merge-two-sorted-lists][21web]               |  [Source Code][21code]  | 2025/01/21 |                   |
-|  141  |                [linked-list-cycle][141web]                 | [Source Code][141code]  | 2025/01/23 |                   |
-|  27   |                  [remove-element][27web]                   |  [Source Code][27code]  | 2025/01/31 |                   |
-|  13   |                 [roman-to-integer][13web]                  |  [Source Code][13code]  | 2025/02/02 |                   |
-| 1768  |            [merge-strings-alternately][1768web]            | [Source Code][1768code] | 2025/02/03 |                   |
-| 1071  |       [greatest-common-divisor-of-strings][1071web]        | [Source Code][1071code] | 2025/02/04 | ambiguous problem |
-| 1431  |    [kids-with-the-greatest-number-of-candies][1431web]     | [Source Code][1431code] | 2025/02/06 |                   |
+|  No.  |                           Title                            |          Code           |    Date    |        Remark        |
+| :---: | :--------------------------------------------------------: | :---------------------: | :--------: | :------------------: |
+|   1   |                      [two-sum][1web]                       |  [Source Code][1code]   | 2021/10/29 |                      |
+| 1512  |              [number-of-good-pairs][1512web]               | [Source Code][1512code] | 2021/11/03 |                      |
+|  496  |              [next-greater-element-i][496web]              | [Source Code][496code]  | 2021/11/10 | monotonic stack (re) |
+| 1217  | [minimum-cost-to-move-chips-to-the-same-position][1217web] | [Source Code][1217code] | 2021/12/06 |                      |
+| 1047  |    [remove-all-adjacent-duplicates-in-string][1047web]     | [Source Code][1047code] | 2021/12/07 |                      |
+|  118  |                 [pascals-triangle][118web]                 | [Source Code][118code]  | 2022/07/14 |                      |
+|  217  |                [contains-duplicate][217web]                | [Source Code][217code]  | 2023/05/24 |                      |
+|  242  |                  [valid-anagram][242web]                   | [Source Code][242code]  | 2023/05/24 |                      |
+|  125  |                 [valid-palindrome][125web]                 | [Source Code][125code]  | 2024/05/15 |                      |
+|  26   |                 [remove-duplicates][26web]                 |  [Source Code][26code]  | 2025/01/18 |                      |
+|   9   |                 [palindrome-number][9web]                  |  [Source Code][9code]   | 2025/01/19 |                      |
+|  206  |               [reverse-linked-list][206web]                | [Source Code][206code]  | 2025/01/20 |                      |
+|  21   |              [merge-two-sorted-lists][21web]               |  [Source Code][21code]  | 2025/01/21 |                      |
+|  141  |                [linked-list-cycle][141web]                 | [Source Code][141code]  | 2025/01/23 |                      |
+|  27   |                  [remove-element][27web]                   |  [Source Code][27code]  | 2025/01/31 |                      |
+|  13   |                 [roman-to-integer][13web]                  |  [Source Code][13code]  | 2025/02/02 |                      |
+| 1768  |            [merge-strings-alternately][1768web]            | [Source Code][1768code] | 2025/02/03 |                      |
+| 1071  |       [greatest-common-divisor-of-strings][1071web]        | [Source Code][1071code] | 2025/02/04 |  ambiguous problem   |
+| 1431  |    [kids-with-the-greatest-number-of-candies][1431web]     | [Source Code][1431code] | 2025/02/06 |                      |
 
 
 
 **Medium Problems**  
 Count: 16
-|  No.  |                         Title                          |          Code          |    Date    |       Remark        |
-| :---: | :----------------------------------------------------: | :--------------------: | :--------: | :-----------------: |
-|   3   | [longest-substring-without-repeating-characters][3web] |  [Source Code][3code]  | 2021/10/30 |                     |
-|  503  |           [next-greater-element-ii][503web]            | [Source Code][503code] | 2021/11/11 |                     |
-|  73   |               [set-matrix-zeroes][73web]               | [Source Code][73code]  | 2022/07/06 |                     |
-|  120  |                   [triangle][120web]                   | [Source Code][120code] | 2022/07/28 |                     |
-|  49   |                [group-anagrams][49web]                 | [Source Code][49code]  | 2023/05/30 |                     |
-|  347  |           [top-k-frequent-elements][347web]            | [Source Code][347code] | 2023/09/10 |                     |
-|  238  |         [product-of-array-except-self][238web]         | [Source Code][238code] | 2023/09/11 |                     |
-|  36   |                 [valid-sudoku][36web]                  | [Source Code][36code]  | 2023/09/13 |                     |
-|  128  |         [longest-consecutive-sequence][128web]         | [Source Code][128code] | 2023/09/13 |                     |
-|  167  |       [two-sum-ii-input-array-is-sorted][167web]       | [Source Code][167code] | 2024/05/19 |                     |
-|  15   |                     [3sum][15web]                      | [Source Code][15code]  | 2024/05/20 |                     |
-|  11   |           [container-with-most-water][11web]           | [Source code][11code]  | 2024/05/22 |                     |
-|   2   |                [add-two-numbers][2web]                 |  [Source Code][2code]  | 2025/01/22 |   explain book[v]   |
-|   6   |               [Zigzag Conversion][6web]                |  [Source Code][6code]  | 2025/01/23 |                     |
-|   7   |                [Reverse Integer][7web]                 |  [Source Code][7code]  | 2025/01/24 |                     |
-|   8   |            [String to Integer (atoi)][8web]            |  [Source Code][8code]  | 2025/01/30 |  ambiguous problem  |
-|  151  |          [Reverse Words in a String][151web]           | [Source Code][151code] | 2025/02/07 | fake medium problem |
-|  80   |    [Remove Duplicates from Sorted Array II][80web]     | [Source Code][80code]  | 2025/02/08 |        peak         |
-|  451  |         [Sort Characters By Frequency][451web]         | [Source Code][451code] | 2025/02/10 |   slow but fancy    |
+|  No.  |                         Title                          |          Code          |    Date    |        Remark        |
+| :---: | :----------------------------------------------------: | :--------------------: | :--------: | :------------------: |
+|   3   | [longest-substring-without-repeating-characters][3web] |  [Source Code][3code]  | 2021/10/30 |                      |
+|  503  |           [next-greater-element-ii][503web]            | [Source Code][503code] | 2021/11/11 | monotonic stack (re) |
+|  73   |               [set-matrix-zeroes][73web]               | [Source Code][73code]  | 2022/07/06 |                      |
+|  120  |                   [triangle][120web]                   | [Source Code][120code] | 2022/07/28 |                      |
+|  49   |                [group-anagrams][49web]                 | [Source Code][49code]  | 2023/05/30 |                      |
+|  347  |           [top-k-frequent-elements][347web]            | [Source Code][347code] | 2023/09/10 |                      |
+|  238  |         [product-of-array-except-self][238web]         | [Source Code][238code] | 2023/09/11 |                      |
+|  36   |                 [valid-sudoku][36web]                  | [Source Code][36code]  | 2023/09/13 |                      |
+|  128  |         [longest-consecutive-sequence][128web]         | [Source Code][128code] | 2023/09/13 |                      |
+|  167  |       [two-sum-ii-input-array-is-sorted][167web]       | [Source Code][167code] | 2024/05/19 |         (re)         |
+|  15   |                     [3sum][15web]                      | [Source Code][15code]  | 2024/05/20 |                      |
+|  11   |           [container-with-most-water][11web]           | [Source code][11code]  | 2024/05/22 |                      |
+|   2   |                [add-two-numbers][2web]                 |  [Source Code][2code]  | 2025/01/22 |   explain book[v]    |
+|   6   |               [Zigzag Conversion][6web]                |  [Source Code][6code]  | 2025/01/23 |                      |
+|   7   |                [Reverse Integer][7web]                 |  [Source Code][7code]  | 2025/01/24 |                      |
+|   8   |            [String to Integer (atoi)][8web]            |  [Source Code][8code]  | 2025/01/30 |  ambiguous problem   |
+|  151  |          [Reverse Words in a String][151web]           | [Source Code][151code] | 2025/02/07 | fake medium problem  |
+|  80   |    [Remove Duplicates from Sorted Array II][80web]     | [Source Code][80code]  | 2025/02/08 |         peak         |
+|  451  |         [Sort Characters By Frequency][451web]         | [Source Code][451code] | 2025/02/10 |    slow but fancy    |
 
 **Explained Book**
 > If I look back at the problems I solved a couple of months ago,  
